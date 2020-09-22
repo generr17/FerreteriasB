@@ -21,6 +21,37 @@
                  
                 </ul>
               </li>
+              <li class="drop-down"><a>Herramientas manuales</a>
+                <ul>
+                  <li><a href="#">STANLY</a></li>
+                  <li><a href="#">INGCO</a></li>
+                  <li><a href="#">CENTURY</a></li>
+                </ul>
+              </li>
+              <li class="drop-down"><a>Plomería</a>
+                <ul>
+                  <li><a href="#">Plastigama</a></li>
+                  <li><a href="#">RIVAL</a></li>
+                  
+                </ul>
+              </li>
+              <li class="drop-down"><a>Tubería y accesorios</a>
+              </li>
+              <li class="drop-down"><a>Tanques reservorios</a>
+                <ul>
+                <li><a href="#">Plastigama</a></li>
+                  <li><a href="#">RIVAL</a></li>
+                </ul>
+              </li>
+              <li class="drop-down"><a>Cerraduras</a>
+                <ul>
+                  <li><a href="#">Stanly</a></li>
+                  <li><a href="#">kwikset</a></li>
+                  <li><a href="#">Salford</a></li>
+                  <li><a href="#">Viro</a></li>
+                  <li><a href="#">Travex</a></li>
+                </ul>
+              </li>
               <li class="drop-down"><a>Pinturas automotrices</a>
                 <ul>
                   <li><a href="#">Producto 1</a></li>
@@ -32,20 +63,21 @@
               </li>
               <li class="drop-down"><a>Materiales de construcción</a>
                 <ul>
-                  <li><a href="#">Producto 1</a></li>
-                  <li><a href="#">Producto 2</a></li>
-                  <li><a href="#">Producto 3</a></li>
-                  <li><a href="#">Producto 4</a></li>
-                  <li><a href="#">Producto 5</a></li>
+                  <li><a href="#">Techos</a></li>
+                  <li><a href="#">Cemento</a></li>
+                  <li><a href="#">Gypsum</a></li>
+                  <li><a href="#">Barilla</a></li>
+                  <li><a href="#">Escaleras</a></li>
                 </ul>
               </li>
               <li class="drop-down"><a>Materiales eléctricos</a>
                 <ul>
-                  <li><a href="#">Producto 1</a></li>
-                  <li><a href="#">Producto 2</a></li>
-                  <li><a href="#">Producto 3</a></li>
-                  <li><a href="#">Producto 4</a></li>
-                  <li><a href="#">Producto 5</a></li>
+                  <li><a href="#">Cables</a></li>
+                  <li><a href="#">Interruptores y tomacorientes</a></li>
+                  <li><a href="#">Focos</a></li>
+                  <li><a href="#">Paneles led</a></li>
+                  <li><a href="#">Extensiones</a></li>
+                  <li><a href="#">Bracker y cajas termicas</a></li>
                 </ul>
               </li>
               <li class="drop-down"><a>Maquinaria</a>
