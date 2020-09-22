@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
-    <title>Stanley | Ferreterías Bolívar</title>
+    <title>Cerraduras | Ferreterías Bolívar</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
   
@@ -30,7 +30,7 @@
 </head>
 <body>
     <!--header-->
-<?php include('../header.php'); ?>
+        <?php include('../header.php'); ?>
   <!--endheader-->
 <div class="fondoa">
       <!-- ======= Latest Properties Section ======= -->
@@ -40,8 +40,7 @@
     
     <section class="property-grid grid">
     <div class="section-title">
-        <h2>Stanley</h2>
-        
+        <h2>Cerraduras</h2>
       </div>
         <div class="container">
           <div class="row">
@@ -49,14 +48,14 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/martillo.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/productos/Cerraduras/stanley.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
                     
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">Martillo</span>
+                        <span class="price-a">Cerradura marca Stanley</span>
                       </div>
                       
                     </div>
@@ -64,10 +63,10 @@
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
                     <br>
-                       Pintura de tipo elastomérico plastificada de alta calidad. 
-                       Ideal para ser utilizada en exteriores.
+                    Pintura de látex de la más elevada calidad,  diseñada para alcanzar tanto 
+                    las prestaciones de un sellador como de una pintura de acabado.
                     <br>
-                    </div> 
+                    </div>     
                     </div>
                   </div>
                 </div>
@@ -76,14 +75,14 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/destornilladores.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/productos/Cerraduras/kwikset.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
                     
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">Destornilladores</span>
+                        <span class="price-a">Cerradura marca Kwikset</span>
                       </div>
                      
                     </div>
@@ -91,9 +90,9 @@
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
                     <br>
-                          Pintura Arquitectónica tipo vinil-acrílica diseñada para la protección 
-                          y decoración de superficies de fibrocement, tanto exterior como interior.
-                    <br> 
+                    Pintura látex de excelente nivelación diseñada con tecnología 100% acrílica
+                    modificada, especialmente para interiores y acabados decorativos, lavable y durable.
+                  <br>
                     </div> 
                     </div>
                   </div>
@@ -104,25 +103,25 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/serrucho.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/productos/Cerraduras/salford.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
                     
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">Serruchos</span>
+                        <span class="price-a">Cerradura marca Salford</span>
                       </div>
                       
                     </div>
                     <div class="card-footer-a">
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
-                    <br>
-                    Pintura arquitectónica tipo vinil-acrílica, diseñada para proteger 
-                    y decorar los acabados tanto interiores como exteriores.
-                    <br>
-                    </div> 
+                    Pintura de látex de la más elevada calidad, diseñada con un cubrimiento
+                    óptimo.Ofrece sus excelentes características como protección, 
+                    resistencia a microorganismos y resistente a los factores 
+                    cambiantes del medio ambiente.
+                    </div>     
                     </div>
                   </div>
                 </div>
@@ -131,151 +130,44 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/flexometro.png" alt="" class="img-a img-fluid">
-                </div>
-                <div class="card-overlay">
-                  <div class="card-overlay-a-content">
-                    ¿
-                    <div class="card-body-a">
-                      <div class="price-box d-flex">
-                        <span class="price-a">Flexometro</span>
-                      </div>
-                     
-                    </div>
-                    <div class="card-footer-a">
-                    <div class="descripcion">
-                    <h4 class="card-info-title">Descripción</h4>
-                    .................
-                    </div> 
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card-box-a card-shadow">
-                  <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/remachadora.png" alt="" class="img-a img-fluid">
-                  </div>
-                  <div class="card-overlay">
-                    <div class="card-overlay-a-content">
-                      
-                      <div class="card-body-a">
-                        <div class="price-box d-flex" >
-                        
-                        <span class="price-a">Remachadora</span>
-                        </div>
-                       
-                      </div>
-                      <div class="card-footer-a">
-                      <div class="descripcion">
-                      <h4 class="card-info-title">Descripción</h4>
-                      <br>
-                      Látex vinil acrílico diseñado especialmente para la fabricación
-                       de pinturas tanto de exteriores como para interiores.
-                       <br>
-                      </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-             
-              <div class="col-md-4">
-                <div class="card-box-a card-shadow">
-                  <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/tijeras.png" alt="" class="img-a img-fluid">
-                  </div>
-                  <div class="card-overlay">
-                    <div class="card-overlay-a-content">
-                      
-                      <div class="card-body-a">
-                        <div class="price-box d-flex" >
-                        
-                        <span class="price-a">Tijeras</span>
-                        </div>
-                       
-                      </div>
-                      <div class="card-footer-a">
-                      <div class="descripcion">
-                      <h4 class="card-info-title">Descripción</h4>
-                      <br>
-                      Látex vinil acrílico diseñado especialmente para la fabricación
-                       de pinturas tanto de exteriores como para interiores.
-                       <br>
-                      </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card-box-a card-shadow">
-                  <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/llavesexagonaleso%20mixtas.png" alt="" class="img-a img-fluid">
-                  </div>
-                  <div class="card-overlay">
-                    <div class="card-overlay-a-content">
-                      
-                      <div class="card-body-a">
-                        <div class="price-box d-flex" >
-                        
-                        <span class="price-a">Llaves exagonales o mixtas</span>
-                        </div>
-                       
-                      </div>
-                      <div class="card-footer-a">
-                      <div class="descripcion">
-                      <h4 class="card-info-title">Descripción</h4>
-                      <br>
-                      Látex vinil acrílico diseñado especialmente para la fabricación
-                       de pinturas tanto de exteriores como para interiores.
-                       <br>
-                      </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card-box-a card-shadow">
-                  <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/grapadoras.png" alt="" class="img-a img-fluid">
-                  </div>
-                  <div class="card-overlay">
-                    <div class="card-overlay-a-content">
-                      
-                      <div class="card-body-a">
-                        <div class="price-box d-flex" >
-                        
-                        <span class="price-a">Grapadoras</span>
-                        </div>
-                       
-                      </div>
-                      <div class="card-footer-a">
-                      <div class="descripcion">
-                      <h4 class="card-info-title">Descripción</h4>
-                      <br>
-                      Látex vinil acrílico diseñado especialmente para la fabricación
-                       de pinturas tanto de exteriores como para interiores.
-                       <br>
-                      </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            <div class="col-md-4">
-              <div class="card-box-a card-shadow">
-                <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/alicates.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/productos/Cerraduras/viro.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
                     
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">Alicates</span>
+                        <span class="price-a">Cerradura marca Viro</span>
+                      </div>
+                     
+                    </div>
+                    <div class="card-footer-a">
+                    <div class="descripcion">
+                    <h4 class="card-info-title">Descripción</h4>
+                    <br>
+                    Pinturas de Látex Tipo 3 para interiores, de gran cubrimiento y excelente
+                    rendimiento a bajo costo, ideal para superficies grandes como escuelas,
+                    colegios e instituciones en general.
+                    <br>
+                    </div>     
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+              
+            <div class="col-md-4">
+              <div class="card-box-a card-shadow">
+                <div class="img-box-a">
+                  <img src="https://ferreteriasbolivar.com/assets/img/productos/Cerraduras/travex.png" alt="" class="img-a img-fluid">
+                </div>
+                <div class="card-overlay">
+                  <div class="card-overlay-a-content">
+                    
+                    <div class="card-body-a">
+                      <div class="price-box d-flex">
+                        <span class="price-a">Cerradura marca Travex</span>
                       </div>
                       
                     </div>
@@ -283,12 +175,10 @@
                     <div class="descripcion">
                     <h4 class="card-info-title">Descripción</h4>
                     <br>
-                    
-                    Recubrimiento protector para atmósferas exteriores por su excelente
-                     comportamiento en exposición ambiental.
-                     <br>
-                    </div>
-                     
+                    Pintura base aceite de alta calidad, con gran brillo y larga duración. Para
+                    cualquier ambiente brinda adecuada protección contra la suciedad y
+                    corrosión en diferentes sustratos. <br>
+                    </div>     
                     </div>
                   </div>
                 </div>

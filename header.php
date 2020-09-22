@@ -23,7 +23,7 @@
               </li>
               <li class="drop-down"><a>Herramientas manuales</a>
                 <ul>
-                  <li><a href="#">STANLY</a></li>
+                  <li><a href="https://ferreteriasbolivar.com/catalogo/stanley">STANLY</a></li>
                   <li><a href="#">INGCO</a></li>
                   <li><a href="#">CENTURY</a></li>
                 </ul>

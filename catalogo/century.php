@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
-    <title>Stanley | Ferreterías Bolívar</title>
+    <title>Century | Ferreterías Bolívar</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
   
@@ -40,7 +40,7 @@
     
     <section class="property-grid grid">
     <div class="section-title">
-        <h2>Stanley</h2>
+        <h2>Century</h2>
         
       </div>
         <div class="container">
@@ -49,7 +49,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/martillo.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/martillo.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -76,7 +76,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/destornilladores.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/destornilladores.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -104,7 +104,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/serrucho.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/serrucho.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -131,7 +131,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/flexometro.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/flexometro.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
@@ -155,7 +155,7 @@
             <div class="col-md-4">
                 <div class="card-box-a card-shadow">
                   <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/remachadora.png" alt="" class="img-a img-fluid">
+                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/remachadora.png" alt="" class="img-a img-fluid">
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
@@ -184,7 +184,7 @@
               <div class="col-md-4">
                 <div class="card-box-a card-shadow">
                   <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/tijeras.png" alt="" class="img-a img-fluid">
+                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/tijeras.png" alt="" class="img-a img-fluid">
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
@@ -212,7 +212,7 @@
               <div class="col-md-4">
                 <div class="card-box-a card-shadow">
                   <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/llavesexagonaleso%20mixtas.png" alt="" class="img-a img-fluid">
+                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/llavesexagonalesomixtas.png" alt="" class="img-a img-fluid">
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
@@ -240,7 +240,7 @@
               <div class="col-md-4">
                 <div class="card-box-a card-shadow">
                   <div class="img-box-a">
-                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/grapadoras.png" alt="" class="img-a img-fluid">
+                    <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/grapadora.png" alt="" class="img-a img-fluid">
                   </div>
                   <div class="card-overlay">
                     <div class="card-overlay-a-content">
@@ -268,7 +268,7 @@
             <div class="col-md-4">
               <div class="card-box-a card-shadow">
                 <div class="img-box-a">
-                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/STANLEY/alicates.png" alt="" class="img-a img-fluid">
+                  <img src="https://ferreteriasbolivar.com/assets/img/ferreteria/CENTURY/alicate.png" alt="" class="img-a img-fluid">
                 </div>
                 <div class="card-overlay">
                   <div class="card-overlay-a-content">
